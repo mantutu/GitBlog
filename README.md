@@ -1,3 +1,1 @@
-# GitBlog ✨
-
-This is a book powered by [GitBook](https://github.com/GitbookIO/gitbook).
+# 学习收录手册 
